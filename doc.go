@@ -29,7 +29,7 @@ Random Game
         "fmt"
         "math/rand"
 
-        "github.com/notnil/chess"
+        "github.com/matthieumiser/chess"
     )
 
     func main() {
